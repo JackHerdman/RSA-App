@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Jack",
+        "licenceNumber": "1",
+        "qualifications": [
+            "RSA",
+            "RCG"
+        ],
+        "expiry": {
+            "day": 26,
+            "month": 10,
+            "year": 2020
+        }
+    },
+    {
+        "name": "Jared",
+        "licenceNumber": "2",
+        "qualifications": [
+            "RSA",
+            "PRIV",
+            "LIC"
+        ],
+        "expiry": {
+            "day": 26,
+            "month": 10,
+            "year": 2020
+        }
+    }
+]
